@@ -1,7 +1,7 @@
 # jouets
 Wiki recyclage de matériel et fabrication de jouets 
 
-https://github.com/arnaudrco/anumby/wiki
+https://github.com/anumby-source/jouets/wiki
 
 ![image](https://github.com/arnaudrco/anumby/blob/main/jacadi.PNG)
 

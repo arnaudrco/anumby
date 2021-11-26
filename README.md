@@ -1,6 +1,8 @@
 # jouets
 recyclage de matériel et fabrication de jouets 
 
+https://github.com/arnaudrco/anumby/wiki
+
 ![image](https://github.com/arnaudrco/anumby/blob/main/jacadi.PNG)
 
 Jeux sous arduino :

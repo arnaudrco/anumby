@@ -13,6 +13,6 @@ je dessine avec un petit écran  sur arduino uno
 tournesol avec servomoteur
 tournesol avec moteur pas à pas recyclé
 
-Liste complète sur anumby
+Liste complète sur [Anumby](https://github.com/anumby-source/jouets)
 
-https://github.com/anumby-source/jouets
+

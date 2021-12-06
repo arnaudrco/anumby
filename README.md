@@ -1,9 +1,7 @@
 # jouets
-Wiki recyclage de matériel et fabrication de jouets 
+[Wiki](https://github.com/anumby-source/jouets/wiki) recyclage de matériel et fabrication de jouets 
 
 Ateliers numériques [Repair Café d'Orsay](https://www.repaircafe-orsay.org/category/blog/ateliers-numeriques-blog/)
-
-[wiki](https://github.com/anumby-source/jouets/wiki)
 
 ![image](https://github.com/arnaudrco/anumby/blob/main/jacadi.PNG)
 
